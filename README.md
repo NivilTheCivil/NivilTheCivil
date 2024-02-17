@@ -1,7 +1,7 @@
 [![MasterHead](https://cdn.discordapp.com/attachments/871403638550061117/1208418183275347988/NivilTheCivil.gif?ex=65e33622&is=65d0c122&hm=4b11c09f88616281e584395c43b4ef871bc6611b0e23a6c889837c72626653a7&)
 <h1 align="center">Hi 👋, I'm Nivil Kazi Hasan</h1>
 <h3 align="center">A passionate developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="![image](https://github.com/NivilTheCivil/NivilTheCivil/assets/113881513/546409e4-9489-47bd-91b7-693bcf20e980)
+<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/871403638550061117/1208418962031910942/200w.gif?ex=65e336db&is=65d0c1db&hm=e4cc6a4a63ee29c630a602182cb751313e0df8308c5d85d66ad0bb430046b7a0&"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nivilthecivil&label=Profile%20views&color=0e75b6&style=flat" alt="nivilthecivil" /> </p>
 

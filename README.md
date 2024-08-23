@@ -5,15 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nivilthecivil&label=Profile%20views&color=0e75b6&style=flat" alt="nivilthecivil" /> </p>
 
-- 🌱 I’m currently learning **Content Creating**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **Discord**
 
-- 🤝 I’m looking for help with **Graphic Designs**
-
-- 👨‍💻 All of my projects are available at [https://github.com/NivilTheCivil/](https://github.com/NivilTheCivil/)
-
-- 💬 Ask me about **Discord Stuffs**
+- 🤝 I’m open for hire for any **Graphic Designs**
 
 - 📫 How to reach me **https://discordapp.com/users/845182794598580244**
 
